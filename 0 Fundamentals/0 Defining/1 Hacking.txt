@@ -1,0 +1,11 @@
+The Outcome of Curosity in an Innovative Mind
+
+Understanding the phenomenon of a process, finding a way to tweak it the way you want and apply the tweak-process & make it work the desired way.
+
+Security has 4 main elements ~
+* Confidentiality,
+* Authenticity,
+* Integrity, &
+* Availability.
+
+Any factor compromising any element is vulnerability.

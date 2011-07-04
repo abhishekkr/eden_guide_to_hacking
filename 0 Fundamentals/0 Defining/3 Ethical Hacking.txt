@@ -1,0 +1,13 @@
+Refers to Hacking performed by Security Experts for determining the flaw in a system and report it to system maintainers for patching, so that cyber-criminals cannot exploit it.
+
+It essentially requires no offense against anyone's rights.
+
+The motive of Ethical Hacking ~
+* what is publicly exposed on Target
+* exploits capable on exposed information
+* is there any mechanism to identify attacks
+
+Making Hacking an Ethical Task ~
+* Sign a legal document with Client confirming permissions
+* Preparing Vulnerability Assessment Report
+* Communicating Report to Client & help in correction
