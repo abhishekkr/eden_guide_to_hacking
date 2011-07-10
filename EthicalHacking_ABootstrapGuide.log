@@ -1,248 +1,258 @@
-+[ Ethical Hacking ~ A Bootstrap Guide ]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[+] Ethical Hacking ~ A Bootstrap Guide
 |
-|+[ 0* Fundamentals ]
+|[+] 0* Fundamentals
 | |
-| |+[ step.0 Defining ]
-| |  |
-| |  |+[ 0.1 Hacking ]
-| |  |
-| |  |+[ 0.2 Hats and Hacking ]
-| |  |
-| |  |+[ 0.3 Ethical Hacking ]
-| |  |
-| |  |+[ 0.4 Hacking and Crime ]
-| |  |
-| |  |+[ 0.5 Hacking and Law ]
-| |  |_________________________________
-| |
-| |
-| |+[ step.1 Skills Required ]
-| |  |
-| |  |+[ 1.1 Computer Skills ]
-| |  |
-| |  |+[ 1.2 Social Skills ]
-| |  |
-| |  |+[ 1.3 Mental Skills ]
-| |  |_________________________________
-| |___________________________________
-|
-|
-|+[ 1* Hacking Cycle ]
-| |
-| |+[ step.0 Acquire Target ]
-| |  |
-| |  |+[ 0.1 Pre-Contract ]
-| |  |
-| |  |+[ 0.2 Post-Contact ]
-| |  |_________________________________
+| |[+] step.0 Defining
+| | |
+| | |[+] 0.1 Hacking
+| | |
+| | |[+] 0.2 Hats and Hacking
+| | |
+| | |[+] 0.3 Ethical Hacking
+| | |
+| | |[+] 0.4 Hacking and Crime
+| | |
+| | |[+] 0.5 Hacking and Law
+| | |_
 | |
 | |
-| |+[ step.1 Reconnaissance ]
-| |  |
-| |  |+[ 1.1 Passive-Recon ]
-| |  |  |
-| |  |  |+[ 1.1.1 Open Intelligence Gathering ]
-| |  |  |  |
-| |  |  |  |+[ .1 Social Networking & Other Portals ]
-| |  |  |  |
-| |  |  |  |+[ .1 Using Automated Tools ]
-| |  |  |  |  |
-| |  |  |  |  |+[ Maltego ]
-| |  |  |  |_____________________________
-| |  |  |
-| |  |  |+[ 1.1.2 Meta Information Filtering ]
-| |  |  |  |
-| |  |  |  |+[ .1 Search The Target ]
-| |  |  |  |  |
-| |  |  |  |  |+[ FOCA ]
-| |  |  |  |
-| |  |  |  |+[ .2 Search The Domain ]
-| |  |  |  |  |
-| |  |  |  |  |+[ ... ]
-| |  |  |  |_____________________________
-| |  |  |_______________________________
-| |  |
-| |  |+[ 1.2 Active-Recon ]
-| |  |  |
-| |  |  |+[ 1.2.1 Social Engineering ]
-| |  |  |
-| |  |  |+[ 1.2.2 Eavesdropping ]
-| |  |  |
-| |  |  |+[ 1.2.3 Shoulder Surfing ]
-| |  |  |
-| |  |  |+[ 1.2.4 Dumpster Diving ]
-| |  |  |_______________________________
-| |  |
-| |  |+[ 1.3 Information ]
-| |  |  |
-| |  |  |+[ 1.3.1 Network-Level ]
-| |  |  |  |
-| |  |  |  |+[ .1 IP Ranges ]
-| |  |  |  |
-| |  |  |  |+[ .2 Server Names, Naming Conventions ]
-| |  |  |
-| |  |  |+[ 1.3.2 Application-Level ]
-| |  |  |
-| |  |  |+[ 1.3.3 User-Level ]
-| |  |  |
-| |  |  |+[ 1.3.4 Required To Be Social ]
-| |  |  |_______________________________
-| |  |_________________________________
-| |
-| |
-| |+[ step.2 Scanning ]
-| |  |
-| |  |+[ 2.1 Network Scanners ]
-| |  |  |
-| |  |  |+[ 2.1.1 General Scanners ]
-| |  |  |  |
-| |  |  |  |+[ .1 Hardcore Scanners ]
-| |  |  |  |  |
-| |  |  |  |  |+[ AngryIPScanner, NMap, Activescan, NeXposeCE, NetSparkerCE, FastTrack, Armitage ]
-| |  |  |  |
-| |  |  |  |+[ .2 Smart Scanners ]
-| |  |  |  |  |
-| |  |  |  |  |+[ PortBunny, Unicornscan, Nessus, Scanrand ]<check_for_names/>
-| |  |  |  |_____________________________
-| |  |  |
-| |  |  |+[ 2.1.2 Service Scanners ]
-| |  |  |  |
-| |  |  |  |+[ .1 Protocol Based ]
-| |  |  |  |
-| |  |  |  |+[ .2 Device Based ]
-| |  |  |  |
-| |  |  |  |+[ .3 OS Scanners ]
-| |  |  |  |  |
-| |  |  |  |  |+[ p0f, xProbe2 ]
-| |  |  |  |
-| |  |  |  |+[ .4 Microsoft-Specific ]
-| |  |  |  |  |
-| |  |  |  |  |+[ MicrosoftBaselineSecurityAnalyzer, SuperScan ]
-| |  |  |  |
-| |  |  |  |+[ .5 Wireless-Specific ]
-| |  |  |  |  |
-| |  |  |  |  |+[ inSSIDer, netStumbler, miniStumbler, CainAbel, l ]
-| |  |  |  |_____________________________
-| |  |  |_______________________________
-| |  |
-| |  |+[ 2.2 Application Scanners ]
-| |  |  |
-| |  |  |+[ 2.2.1 Web-Application Scanners ]
-| |  |  |  |
-| |  |  |  |+[ .1 Multiple Vulnerability Scanner ]
-| |  |  |  |  |
-| |  |  |  |  |+[ Nikto2, W3AF, Acunetix WVS, 
-| |  |  |  |    IBM Appscan, Skipfish, ParosProxy, 
-| |  |  |  |    AndiParos, Zed_Attack, WebScarab, 
-| |  |  |  |    WebInspect, Wikto, Websecurify, 
-| |  |  |  |    Wapiti, Watcher, WATOBO, 
-| |  |  |  |    BurpSuite, Grabber, Arachni, 
-| |  |  |  |    Grendel-Scan, Powerfuzzer, QualysGuard WAS ]
-| |  |  |  |
-| |  |  |  |+[ .2 Specific Vulnerability Scanner ]
-| |  |  |  |  |
-| |  |  |  |  |+[ xsss,  ]
-| |  |  |  |_____________________________
-| |  |  |
-| |  |  |+[ 2.2.2 Database Scanners ]
-| |  |  |  |
-| |  |  |  |+[ sqlmap,  ]
-| |  |  |
-| |  |  |+[ 2.2.3 ... ]
-| |  |  |_______________________________
-| |  |_________________________________
-| |
-| |+[ step.3 Vulnerabilities Profiling ]
-| |  |
-| |  |+[ 3.1 Vulnerable Machines ]
-| |  |  |
-| |  |  |+[ 3.1.1 IP Addresses, Machine Names ]
-| |  |  |
-| |  |  |+[ 3.1.2 Vulnerable Services ]
-| |  |  |
-| |  |  |+[ 3.1.3 IP Addresses, Machine Names ]
-| |  |
-| |  |+[ 3.2 User References ]
-| |  |_________________________________
-| |
-| |+[ step.4 Exploitation ]
-| |  |
-| |  |+[ 4.1 ... ]
-| |  |_________________________________
-| |
-| |+[ step.5 System Puppetizing ]
-| |  |
-| |  |+[ 5.1 Tame The RAT ]
-| |  |
-| |  |+[ 5.2 Erase Fingerprints ]
-| |  |
-| |  |+[ 5.3 ... ]
-| |  |_________________________________
-| |
-| |+[ step.6 Reporting ]
-| |  |
-| |  |+[ 6.1 WTTW ~ Whom To Tell What ]
-| |  |_________________________________
-| |___________________________________
+| |[+] step.1 Skills Required
+| | |
+| | |[+] 1.1 Computer Skills
+| | |
+| | |[+] 1.2 Social Skills
+| | |
+| | |[+] 1.3 Mental Skills
+| | |_
+| |_
 |
 |
-|+[ 2* How To Remain A Hacker ]
+|[+] 1* Hacking Cycle
 | |
-| |+[ step.1 Being Aware ]
+| |[+] step.0 Acquire Target
+| | |
+| | |[+] 0.1 Pre-Contract
+| | |
+| | |[+] 0.2 Post-Contract
+| | |_
 | |
-| |+[ step.2 Being Curious ]
 | |
-| |+[ step.3 Being Secured ]
+| |[+] step.1 Reconnaissance
+| | |
+| | |[+] 1.1 Passive-Recon
+| | | |
+| | | |[+] 1.1.1 Open Intelligence Gathering
+| | | | |
+| | | | |[+] .1 Social Networking & Other Portals
+| | | | |
+| | | | |[+] .2 Using Automated Tools
+| | | | | |
+| | | | | |[+] Maltego
+| | | | |_
+| | | |
+| | | |[+] 1.1.2 Meta Information Filtering
+| | | | |
+| | | | |[+] .1 Search The Target
+| | | | | |
+| | | | | |[+] FOCA
+| | | | |
+| | | | |[+] .2 Search The Domain
+| | | | | |
+| | | | | |[+] <.../>
+| | | | |_
+| | | |_
+| | |
+| | |[+] 1.2 Active-Recon
+| | | |
+| | | |[+] 1.2.1 Social Engineering
+| | | |
+| | | |[+] 1.2.2 Eavesdropping 
+| | | |
+| | | |[+] 1.2.3 Shoulder Surfing
+| | | |
+| | | |[+] 1.2.4 Dumpster Diving
+| | | |_
+| | |
+| | |[+] 1.3 Information
+| | | |
+| | | |[+] 1.3.1 Network-Level
+| | | | |
+| | | | |[+] .1 IP Ranges
+| | | | |
+| | | | |[+] .2 Naming Conventions
+| | | | |_
+| | | |
+| | | |[+] 1.3.2 Application-Level
+| | | |
+| | | |[+] 1.3.3 User-Level
+| | | |
+| | | |[+] 1.3.4 Required To Be Social
+| | | |_
+| | |_
 | |
-| |+[ step.4 Being Contributor ]
 | |
-| |+[ step.5 Being Human ]
-| |___________________________________
+| |[+] step.2 Scanning
+| | |
+| | |[+] 2.1 Network Scanners
+| | | |
+| | | |[+] 2.1.1 General Scanners
+| | | | |
+| | | | |[+] .1 Hardcore Scanners
+| | | | | |
+| | | | | |[+] AngryIPScanner, NMap, Activescan,
+| | | | | |   NeXposeCE, NetSparkerCE, FastTrack,
+| | | | | |   Armitage
+| | | | |
+| | | | |[+] .2 Smart Scanners
+| | | | | |
+| | | | | |[+] PortBunny, Unicornscan, Nessus,
+| | | | | |   Scanrand
+| | | | |_
+| | | |
+| | | |[+] 2.1.2 Service Scanners
+| | | | |
+| | | | |[+] .1 Protocol Based
+| | | | |
+| | | | |[+] .2 Device Based
+| | | | |
+| | | | |[+] .3 OS Scanners
+| | | | | |
+| | | | | |[+] p0f, xProbe2
+| | | | |
+| | | | |[+] .4 Microsoft-Specific
+| | | | | |
+| | | | | |[+] MicrosoftBaselineSecurityAnalyzer,
+| | | | | |    SuperScan
+| | | | |
+| | | | |[+] .5 Wireless-Specific
+| | | | | |
+| | | | | |[+] inSSIDer, netStumbler, miniStumbler,
+| | | | | |    CainAbel, l
+| | | | |_
+| | | |_
+| | |
+| | |[+] 2.2 Application Scanners
+| | | |
+| | | |[+] 2.2.1 Web-Application Scanners
+| | | | |
+| | | | |[+] .1 Multiple Vulnerability Scanner
+| | | | | |
+| | | | | |[+] Nikto2, W3AF, Acunetix WVS, 
+| | | | |    IBM Appscan, Skipfish, ParosProxy, 
+| | | | |    AndiParos, Zed_Attack, WebScarab, 
+| | | | |    WebInspect, Wikto, Websecurify, 
+| | | | |    Wapiti, Watcher, WATOBO, 
+| | | | |    BurpSuite, Grabber, Arachni, 
+| | | | |    Grendel-Scan, Powerfuzzer,
+| | | | |    QualysGuard WAS
+| | | | |
+| | | | |[+] .2 Specific Vulnerability Scanner
+| | | | | |
+| | | | | |[+] xsss,
+| | | | |_
+| | | |
+| | | |[+] 2.2.2 Database Scanners
+| | | | |
+| | | | |[+] sqlmap,
+| | | |
+| | | |[+] 2.2.3 <.../>
+| | | |_
+| | |_
+| |
+| |[+] step.3 Vulnerabilities Profiling
+| | |
+| | |[+] 3.1 Vulnerable Machines
+| | | |
+| | | |[+] 3.1.1 IP Addresses, Machine Names
+| | | |
+| | | |[+] 3.1.2 Vulnerable Services
+| | | |
+| | | |[+] 3.1.3 IP Addresses, Machine Names
+| | |
+| | |[+] 3.2 User References
+| | |_
+| |
+| |[+] step.4 Exploitation
+| | |
+| | |[+] 4.1 <.../>
+| | |_
+| |
+| |[+] step.5 System Puppetizing
+| | |
+| | |[+] 5.1 Tame The RAT
+| | |
+| | |[+] 5.2 Erase Fingerprints
+| | |
+| | |[+] 5.3 <.../>
+| | |_
+| |
+| |[+] step.6 Reporting
+| | |
+| | |[+] 6.1 WTTW ~ Whom To Tell What
+| | |_
+| |_
 |
 |
-|+[ 3* Ethical Hacking Toolset ]
+|[+] 2* How To Remain A Hacker
 | |
-| |+[ list.1 O.S. Distros ]
+| |[+] step.1 Being Aware
 | |
-| |+[ list.2 Recon-Tools ]
+| |[+] step.2 Being Curious
 | |
-| |+[ list.3 Scanners ]
+| |[+] step.3 Being Secured
 | |
-| |+[ list.4 Attack Tools ]
+| |[+] step.4 Being Contributor
 | |
-| |+[ list.5 Forensic Tools ]
-| |
-| |+[ list.6 Attack-Learning Tools ]
-| |
-| |+[ list.7 More Tools ]
-| |___________________________________
+| |[+] step.5 Being Human
+| |_
 |
 |
-|+[ 4* Specific Attack Modules ]
+|[+] 3* Ethical Hacking Toolset
 | |
-| |+[ tut.0 SSL Defeating Attacks ]
+| |[+] list.1 O.S. Distros
 | |
-| |+[ tut.1 WiFi Attack ]
+| |[+] list.2 Recon-Tools
 | |
-| |+[ tut.2 VoIP Attack ]
+| |[+] list.3 Scanners
 | |
-| |+[ tut.3 Web Javascript-Based Attack ]
+| |[+] list.4 Attack Tools
 | |
-| |+[ tut.4 Web SQL-Injection Attack ]
+| |[+] list.5 Forensic Tools
 | |
-| |+[ tut.5 SMB Attack ]
+| |[+] list.6 Attack-Learning Tools
 | |
-| |+[ tut.6 Phishing Attack ]
-| |
-| |+[ tut.X ... ]
-| |___________________________________
+| |[+] list.7 More Tools
+| |_
 |
 |
-|+[ 5* ... ]
+|[+] 4* Specific Attack Modules
 | |
-| |+[ list.1 Cyber Security Links ]
+| |[+] tut.0 SSL Defeating Attacks
 | |
-| |+[ list.2 Terminology ]
-| |___________________________________
+| |[+] tut.1 WiFi Attack
+| |
+| |[+] tut.2 VoIP Attack
+| |
+| |[+] tut.3 Web Javascript-Based Attack
+| |
+| |[+] tut.4 Web SQL-Injection Attack
+| |
+| |[+] tut.5 SMB Attack
+| |
+| |[+] tut.6 Phishing Attack
+| |
+| |[+] tut.X <.../>
+| |_
 |
-|_____________________________________
+|
+|[+] 5* Appendix
+| |
+| |[+] list.1 Cyber Security Links
+| |
+| |[+] list.2 Terminology
+| |_
+|
+|_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

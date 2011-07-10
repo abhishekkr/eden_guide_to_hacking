@@ -1,0 +1,17 @@
+[+] Computer Skills
+ |
+ |[+] O.S. Administration
+ |
+ |
+ |[+] Shell Commands
+ |
+ |
+ |[+] Networking
+ |
+ |
+ |[+] Programming
+ |
+ |
+ |[+] O.S. Internals 
+ |
+ |_
