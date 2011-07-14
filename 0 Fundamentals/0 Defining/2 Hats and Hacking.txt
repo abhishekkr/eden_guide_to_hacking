@@ -1,3 +1,0 @@
-* BlackHat,
-* GrayHat,
-* WhiteHat

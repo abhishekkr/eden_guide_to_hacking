@@ -1,6 +1,6 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[+] Ethical Hacking ~ A Bootstrap Guide
+[+] Eden Guide to Hacking
 |
 |[+] 0* Fundamentals
 | |
@@ -17,7 +17,6 @@
 | | |[+] 0.5 Hacking and Law
 | | |_
 | |
-| |
 | |[+] step.1 Skills Required
 | | |
 | | |[+] 1.1 Computer Skills
@@ -28,7 +27,6 @@
 | | |_
 | |_
 |
-|
 |[+] 1* Hacking Cycle
 | |
 | |[+] step.0 Acquire Target
@@ -37,7 +35,6 @@
 | | |
 | | |[+] 0.2 Post-Contract
 | | |_
-| |
 | |
 | |[+] step.1 Reconnaissance
 | | |
@@ -48,19 +45,13 @@
 | | | | |[+] .1 Social Networking & Other Portals
 | | | | |
 | | | | |[+] .2 Using Automated Tools
-| | | | | |
-| | | | | |[+] Maltego
 | | | | |_
 | | | |
 | | | |[+] 1.1.2 Meta Information Filtering
 | | | | |
 | | | | |[+] .1 Search The Target
-| | | | | |
-| | | | | |[+] FOCA
 | | | | |
 | | | | |[+] .2 Search The Domain
-| | | | | |
-| | | | | |[+] <.../>
 | | | | |_
 | | | |_
 | | |
@@ -92,7 +83,6 @@
 | | | |_
 | | |_
 | |
-| |
 | |[+] step.2 Scanning
 | | |
 | | |[+] 2.1 Network Scanners
@@ -100,15 +90,8 @@
 | | | |[+] 2.1.1 General Scanners
 | | | | |
 | | | | |[+] .1 Hardcore Scanners
-| | | | | |
-| | | | | |[+] AngryIPScanner, NMap, Activescan,
-| | | | | |   NeXposeCE, NetSparkerCE, FastTrack,
-| | | | | |   Armitage
 | | | | |
 | | | | |[+] .2 Smart Scanners
-| | | | | |
-| | | | | |[+] PortBunny, Unicornscan, Nessus,
-| | | | | |   Scanrand
 | | | | |_
 | | | |
 | | | |[+] 2.1.2 Service Scanners
@@ -118,18 +101,10 @@
 | | | | |[+] .2 Device Based
 | | | | |
 | | | | |[+] .3 OS Scanners
-| | | | | |
-| | | | | |[+] p0f, xProbe2
 | | | | |
 | | | | |[+] .4 Microsoft-Specific
-| | | | | |
-| | | | | |[+] MicrosoftBaselineSecurityAnalyzer,
-| | | | | |    SuperScan
 | | | | |
 | | | | |[+] .5 Wireless-Specific
-| | | | | |
-| | | | | |[+] inSSIDer, netStumbler, miniStumbler,
-| | | | | |    CainAbel, l
 | | | | |_
 | | | |_
 | | |
@@ -138,24 +113,11 @@
 | | | |[+] 2.2.1 Web-Application Scanners
 | | | | |
 | | | | |[+] .1 Multiple Vulnerability Scanner
-| | | | | |
-| | | | | |[+] Nikto2, W3AF, Acunetix WVS, 
-| | | | |    IBM Appscan, Skipfish, ParosProxy, 
-| | | | |    AndiParos, Zed_Attack, WebScarab, 
-| | | | |    WebInspect, Wikto, Websecurify, 
-| | | | |    Wapiti, Watcher, WATOBO, 
-| | | | |    BurpSuite, Grabber, Arachni, 
-| | | | |    Grendel-Scan, Powerfuzzer,
-| | | | |    QualysGuard WAS
 | | | | |
 | | | | |[+] .2 Specific Vulnerability Scanner
-| | | | | |
-| | | | | |[+] xsss,
 | | | | |_
 | | | |
 | | | |[+] 2.2.2 Database Scanners
-| | | | |
-| | | | |[+] sqlmap,
 | | | |
 | | | |[+] 2.2.3 <.../>
 | | | |_
@@ -194,8 +156,7 @@
 | | |_
 | |_
 |
-|
-|[+] 2* How To Remain A Hacker
+|[+] 2* Remain A Hacker
 | |
 | |[+] step.1 Being Aware
 | |
@@ -208,8 +169,7 @@
 | |[+] step.5 Being Human
 | |_
 |
-|
-|[+] 3* Ethical Hacking Toolset
+|[+] 3* Hacking Toolset
 | |
 | |[+] list.1 O.S. Distros
 | |
@@ -226,8 +186,7 @@
 | |[+] list.7 More Tools
 | |_
 |
-|
-|[+] 4* Specific Attack Modules
+|[+] 4* Attack Scenarios
 | |
 | |[+] tut.0 SSL Defeating Attacks
 | |
@@ -246,13 +205,11 @@
 | |[+] tut.X <.../>
 | |_
 |
-|
 |[+] 5* Appendix
 | |
 | |[+] list.1 Cyber Security Links
 | |
 | |[+] list.2 Terminology
 | |_
-|
 |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
