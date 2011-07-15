@@ -21,8 +21,8 @@
  | |
  | |[+] A curious, innovative person trying to solve
  | |  a problem or use a service in desired way,
- | |  with no ill-intention, but lawfully utilizing
- | |  any technology in a manner not harming others.
+ | |  with no ill-intention but lawfully utilizing
+ | |  any technology in a tweaked stage not harming others.
  | |
  | |[+] NOT Script Kiddies
  | |  'Script Kiddies' are newbie learners, who tend to
