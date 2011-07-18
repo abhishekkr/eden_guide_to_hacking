@@ -1,0 +1,37 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[+] Hacker's Aim
+ |
+ |[+] Vulnerability
+ | |Any element of a service/software/technology
+ | | compromising it's security parameters.
+ | 
+ |[+] Mainly Two Types
+ | |
+ | |[+] Design-Level
+ | |
+ | |
+ | |[+] Implementation-Level
+ | |
+ | |
+ | |_
+ |
+ |[+] Exploit
+ |
+ |
+ |[+] Threat Model
+ |
+ |
+ |[+] APT {Advanced Persistent Threat}
+ |
+ |
+ |[+] 0-Day
+ |
+ |
+ |[+] Robust-ness
+ |
+ |
+ |_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+other important terms used in this tutorial can be
+referenced from the [=> Appendix => Terminology]

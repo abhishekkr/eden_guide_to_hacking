@@ -1,0 +1,35 @@
+                                                                           
+.oPYo.      8                .oPYo.         o      8          ooooo        
+8.          8                8    8                8            8          
+`boo   .oPYo8 .oPYo. odYo.   8      o    o o8 .oPYo8 .oPYo.     8   .oPYo. 
+.P     8    8 8oooo8 8' `8   8   oo 8    8  8 8    8 8oooo8     8   8    8 
+8      8    8 8.     8   8   8    8 8    8  8 8    8 8.         8   8    8 
+`YooP' `YooP' `Yooo' 8   8   `YooP8 `YooP'  8 `YooP' `Yooo'     8   `YooP' 
+:.....::.....::.....:..::..:::....8 :.....::..:.....::.....:::::..:::.....:
+::::::::::::::::::::::::::::::::::8 :::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::..:::::::::::::::::::::::::::::::::::::::
+                                                
+ o    o               8       o                 [[ Eden Guide To Hacking ]]
+ 8    8               8                         
+o8oooo8 .oPYo. .oPYo. 8  .o  o8 odYo. .oPYo.    a Bootstrap Guide to Hacking
+ 8    8 .oooo8 8    ' 8oP'    8 8' `8 8    8    Practices in a major & short
+ 8    8 8    8 8    . 8 `b.   8 8   8 8    8    to read style...
+ 8    8 `YooP8 `YooP' 8  `o.  8 8   8 `YooP8    the way you don't get bored
+:..:::..:.....::.....:..::...:....::..:....8    instead infer major concepts
+::::::::::::::::::::::::::::::::::::::::ooP'.   and practical usability.
+::::::::::::::::::::::::::::::::::::::::...::
+                                                ~=ABK=~ (AbhishekKr) aBionic
+                                              http://www.twitter.com/aBionic
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[+] Eden Guide to Hacking
+|
+|[+] part.0* Fundamentals
+| |
+| |[+] 'Defining' section involves a boot-up for basic concepts
+| |
+| |[+] 'Skills Required' is about required mind-set for getting started
+| |_
+|_
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
