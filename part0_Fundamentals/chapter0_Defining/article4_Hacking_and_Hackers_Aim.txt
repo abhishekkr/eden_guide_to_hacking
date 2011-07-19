@@ -2,34 +2,32 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [+] Hacker's Aim
  |
+ |[+] Check for 'Robust-ness' of a system,
+ |  finding 'Vulnerability' in it...
+ |  & creating an 'Exploit' for vulnerability.
+ |
+ |
+ |[+] Robust-ness
+ |
+ |
  |[+] Vulnerability
  | |Any element of a service/software/technology
  | | compromising it's security parameters.
- | 
- |[+] Mainly Two Types
- | |
- | |[+] Design-Level
- | |
- | |
- | |[+] Implementation-Level
- | |
- | |
+ | | 
+ | |[+] Mainly Two Types
+ | | |
+ | | |[+] Design-Level
+ | | |
+ | | |
+ | | |[+] Implementation-Level
+ | | |
+ | | |_
  | |_
  |
  |[+] Exploit
  |
  |
  |[+] Threat Model
- |
- |
- |[+] APT {Advanced Persistent Threat}
- |
- |
- |[+] 0-Day
- |
- |
- |[+] Robust-ness
- |
  |
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

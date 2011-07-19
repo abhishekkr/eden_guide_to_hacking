@@ -26,10 +26,66 @@ o8oooo8 .oPYo. .oPYo. 8  .o  o8 odYo. .oPYo.    a Bootstrap Guide to Hacking
 |
 |[+] part.0* Fundamentals
 | |
-| |[+] 'Defining' section involves a boot-up for basic concepts
+| |[+] chapter.0* Defining
+| | |
+| | |[+] article.0* Hacking, Hacker and Security
+| | |[+] article.1* Hacking and Hacker's Class
+| | |[+] article.2* Hacking and Ethical Hacking
+| | |[+] article.3* Hacking, Crime and Law
+| | |[+] article.4* Hacking and Hacker's Aim
+| | |_
 | |
-| |[+] 'Skills Required' is about required mind-set for getting started
+| |[+] chapter.1* Skills Required
+| | |
+| | |[+] article.0* Computer Skills
+| | |[+] article.1* Social Skill
+| | |[+] article.2* Mental Skills
+| | |_
+| |
+| |[+] chapter.2* Hacking Philosophy
+| | |
+| | |[+] article.0* Circle of Hacking
+| | |[+] article.1* Art of Hacking
+| | |_
 | |_
+|
+|[+] part.1* Hacking Cycle
+| |
+| |[+] chapter.3* Acquire Target
+| | |
+| | |[+] article.0* ... 
+| | |_
+| |
+| |[+] chapter.4* Reconnaissance
+| | |
+| | |[+] article.0* ...
+| | |_
+| |
+| |[+] chapter.5* Scanning
+| | |
+| | |[+] article.0* ...
+| | |_
+| |
+| |[+] chapter.6* Vulnerabilities Profiling
+| | |
+| | |[+] article.0* ...
+| | |_
+| |
+| |[+] chapter.7* Exploitation
+| | |
+| | |[+] article.0* ...
+| | |_
+| |
+| |[+] chapter.8* System Puppetizing
+| | |
+| | |[+] article.0* ...
+| | |_
+| |
+| |[+] chapter.9* Reporting
+| | |
+| | |[+] article.0* ...
+| | |_
+| |_ 
 |_
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

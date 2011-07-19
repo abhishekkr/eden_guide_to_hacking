@@ -34,8 +34,9 @@
  | |[+] Suggest mechanisms to identify attacks
  | |_
  |  
- +[] Actually, it's more like 'Legal Hacking'... 
-     but due to such confusion on term 'Hacking',
-     it's better coined as 'Ethical Hacking'.
+ |[+] Actually, it's more like 'Legal Hacking'... 
+ |  but due to such confusion on term 'Hacking',
+ |  it's better coined as 'Ethical Hacking'.
+ |_
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
