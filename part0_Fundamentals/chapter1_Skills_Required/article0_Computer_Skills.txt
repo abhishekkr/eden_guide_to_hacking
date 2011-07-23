@@ -1,5 +1,22 @@
 [+] Computer Skills
  |
- |[+]
+ |[+] Platform
+ | |
+ | |_
  |
+ |[+] Administration
+ | |
+ | |_
+ |
+ |[+] Networking
+ | |
+ | |_
+ |
+ |[+] Programming
+ | |
+ | |_
+ |
+ |[+] Protocols
+ | |
+ | |_
  |_

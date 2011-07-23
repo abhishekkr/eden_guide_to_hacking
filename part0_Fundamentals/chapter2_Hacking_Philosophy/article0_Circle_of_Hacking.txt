@@ -1,0 +1,12 @@
+[+] Circle of Hacking
+ |
+ |    [                  ]
+ | +->[ Sighting Problem ] 
+ | |  [                  ]----->[                 ] 
+ | |                            [ Analyze Problem ]
+ | |  [                  ]<-----[                 ]
+ | |  [  Finding Exploit ]
+ | |  [                  ]----->[                 ]
+ | |                            [ Using/Reporting ]
+ | +<---------------------------[                 ]
+ |_
