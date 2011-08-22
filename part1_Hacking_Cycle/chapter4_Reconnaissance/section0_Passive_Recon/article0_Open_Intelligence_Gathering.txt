@@ -2,11 +2,52 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [+] Open Intelligence Gathering
  |
- |[+]
+ |[+] What Is Open Intelligence?
+ | | Open Intelligence is all the information floating over internet
+ | |  and publicly available either directly or sometimes after log-in
+ | |  to social/professional/educational portals.
+ | | It's also the cause of an intelligent & planned attack instead of
+ | |  going on a blind date with the target.
+ | | There is an entire area of experitse in itslef around it, but
+ | |  it's finished products and prophecies are of great utilization
+ | |  in Modern Security Era.
+ | |_
  |
+ |[+] Search, Social, & Networking Portals
+ | |
+ | |[+]
+ | |
+ | |[+]
+ | |_
  |
- |[+]
- |
- |
+ |[+] Automating the Act
+ | |
+ | |[+] Maltego
+ | | |
+ | | |[+] URL: http://ctas.paterva.com/view/What_is_Maltego
+ | | |
+ | | |[+] Example Usage:
+ | | | |
+ | | | |[+]
+ | | | |
+ | | | |[+] What it does?
+ | | | |
+ | | | |_
+ | | |_
+ | |
+ | |[+] theHarvester
+ | | |
+ | | |[+] URL: http://code.google.com/p/theharvester
+ | | |
+ | | |[+] Example Usage:
+ | | | |
+ | | | |[+] $python theHarvester.py -d google.com -b all
+ | | | |     -l 1000 -e 8.8.8.8 -vnct
+ | | | | 
+ | | | |[+] What it does?
+ | | | |
+ | | | |_
+ | | |_
+ | |_
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
