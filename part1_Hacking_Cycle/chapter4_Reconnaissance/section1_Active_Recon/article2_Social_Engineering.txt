@@ -2,8 +2,70 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [+] Social Engineering
  |
- |[+]
+ |[+] Most creative non-technical hacker practice known to mankind.
  |
+ |[+] It's Art of Communication with People for 'Information Leakage'.
+ | |
+ | |[+] You have a 'Victim' identified by now and wanna collect more
+ | | | and more available information related to them.
+ | | |_
+ | | 
+ | |[+] Not just any relevant information, but sensitive details, that
+ | | | Victim or related people handover to you in confidence.
+ | | |_
+ | |
+ | |[+] You think like a con-artist, assess weakness of your victim &
+ | | | the possibilities of make-believe for them.
+ | | |_
+ | |
+ | |[+] Then you come up with an entire scenario to pose yourself a 
+ | | | reliable savior for your Victim to be saved; a benefactor.
+ | | |_
+ | |
+ | |[+] And you will find them revealing such discreet and sensitive
+ | | | information so that they can encash the situation to its max.
+ | | | And let you gather all sensitive information that you can.
+ | | |_
+ | |_
+ |
+ |[+] Example: "The pretend employee loosing access at critical time"
+ | |
+ | |[+] You are a management personnel on client location in middle of
+ | | | a very life-changing deal.
+ | | |_
+ | |
+ | |[+] You need to get some files from your organization's machine or
+ | | | file-share; but can't access them due to firewall policies on 
+ | | | either side.
+ | | |_
+ | |
+ | |[+] If you can't seal the deal, the failure will take away your job
+ | | | and the person refusing you such crucial-moment help.
+ | | |_
+ | |
+ | |[+] And there are many chances that you'll get the data fetched from
+ | | | your pretended 'Employee', mailed to you.
+ | | |_
+ | |_
+ |
+ |[+] Example: "I'm here to check your Network from Agency"
+ | |
+ | |[+] You are at home of your Victim when some family member, hopefully
+ | | | not much security aware is in-charge and pose as the Network Guy
+ | | | from the Telecom Agency they use.
+ | | |_
+ | |
+ | |[+] Offering new organization customer satisfaction mumble-jumble,
+ | | | you try to get access to check health status of network devices
+ | | | installed there, and more computing devices if possible.
+ | | |_
+ | |
+ | |[+] Now, if the devices are tweakable without any credential request
+ | | | from the family member there... try that first.
+ | | | If it doesn't work and even they don't have access, then pose as
+ | | |  attempting the 'Master Password' so they don't inform the Victim.
+ | | |_
+ | |_
  |
  |[+] For ultimate case studies, read "Art of Deception" 
  |  by "Kevin Mitnick", the most famous Social Engineering
