@@ -2,7 +2,25 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [+] Eavesdropping
  |
- |[+]
+ |[+] There is an enormous amount of information leakage available at
+ | | hangout spots near offices.
+ | |_
  |
+ |[+] Organization Members come in group or alone on call at such spots
+ | | and then they can't resist discussing all the chaos they have been
+ | | facing inside organization, which on further discussion bring out
+ | | some intricate details (which they feel is normal data as everyone
+ | | in their group already know it, but what about prying ears).
+ | |_
+ |
+ |[+] I don't pry around, just visit different tea-stall outside my 
+ | | office with my friends; people from other offices in our building
+ | | come at those spots. And then without any attempt, you get to know
+ | | the technologies they are working upon, & their names.
+ | |_
+ |
+ |[+] If someone do it with motive and attention then
+ | | 'a lot can happen over a cup of coffee'  ;) 
+ | |_
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
