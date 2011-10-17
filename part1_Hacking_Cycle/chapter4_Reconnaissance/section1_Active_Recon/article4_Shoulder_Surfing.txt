@@ -2,7 +2,18 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [+] Shoulder Surfing
  |
- |[+]
+ |[+] Victim is just surfing internet where it's keyboard is visible,
+ | | prying eyes are fishing for a look at the brief moment when (s)he
+ | | has log-in window open on machine's Screen and is tabbed into
+ | | password column.
+ | |_
  |
+ |[+] This is not an intelligent hack but a general privacy negligence
+ | | being mis-used by quick skilled eyes.
+ | |_
+ |
+ |[+] It's not just limited to your computer accounts, but to any
+ | | lock (account) which just requires secret key to be unlocked.
+ | |_
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
