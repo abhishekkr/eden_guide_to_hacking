@@ -2,8 +2,27 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [+] Dumpster Diving
  |
- |[+]
+ |[+] Whenever you plan something, end up either manually depicting
+ | | the information/design or getting the digital copies printed 
+ | | over traditional media (paper, cards, maybe more).
+ | |_
  |
+ |[+] What you do with this traditional media after you 
+ | |[+] are done working over the traditional copies, 
+ | |[+] or have redundant copies, 
+ | |[+] have slightly evolved representation
+ | |_
  |
+ |[+] You Dump IT!!!!!
+ |
+ |[+] Attackers leave all of their cleanliness habits (if any), better
+ | | if dress like Cleaners. Collect whatever dumped artifacts they
+ | | feel could have recoverable data.
+ | |_ 
+ |
+ |[+] All action planning meetings have their technology stack, 
+ | | configurations and design leaked over improperly dumped content.
+ | | It's much more fun when Security Meetings give away notes.
+ | |_
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
