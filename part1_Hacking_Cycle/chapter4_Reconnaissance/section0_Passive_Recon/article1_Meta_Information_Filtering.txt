@@ -2,17 +2,140 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [+] Meta Information Filtering
  |
+ |[+] What is it?
+ | |
+ | |[+] Meta Information is like your essence in working environment. 
+ | |
+ | |[+] It stays in files you access like your footprints on pathway.
+ | |
+ | |[+] Whenever you edit a file, you use it's custom format Editor
+ | | | and most of these editors have tendency of leaking some of
+ | | | system saved information for Editor in the file saved in it.
+ | | |_
+ | | 
+ | |[+] The kind of information these Editors embed in the files 
+ | | | include details like App's Version, O.S. Version, name of
+ | | | User &/or Organization given to application while installing,
+ | | | sometimes details about Network & more depending on the way
+ | | | they got edited & saved.
+ | | |_
+ | | 
+ | |[+] You will find similar data leakage via files like Photos
+ | | | taken from digital cameras, audio files recorded & similar
+ | | | giving out a list of technical details about equipment used 
+ | | | to create it. 
+ | | |  Now, the digital equipment you use leak a lot about the PC
+ | | | companions you might be using with that.
+ | | |_ 
+ | |_
+ |
+ |[+] Why it's important?
+ | |
+ | |[+] You providing some major information about your machine by
+ | | | hosting all these files on your site or public portal.
+ | | |_
+ | | 
+ | |[+] Suppose if attacker want to target your Government Portal,
+ | | | they would look for all distributed files by their portals
+ | | | and gather information of unknowingly leaked usernames,
+ | | | machine names, softwares used and their versions.
+ | | |_
+ | | 
+ | |[+] It's a great deal of recon in itself to plan an strategic 
+ | | | attack against any victim.
+ | | |_
+ | |_
+ |
  |[+] Search the Target
  | |
  | |[+] FOCA
+ | | | 
+ | | |[+] URL: http://www.informatica64.com/DownloadFOCA/
+ | | | 
+ | | |[+] What It Does?
+ | | | |
+ | | | |[+] It's a high-end tool for easy target specific file
+ | | | | | metadata extraction.
+ | | | | |_
+ | | | |
+ | | | |[+] You can either provide it downloaded offline Files
+ | | | | | and ask it to fetch meta data out of it.
+ | | | | |_
+ | | | | 
+ | | | |[+] Or, can provide a Web Domain to it and then ask it 
+ | | | | | to search documents over it. In this mode it checks
+ | | | | | for the supported documents in live online mode, then
+ | | | | | queue them for download and extract metadata from them
+ | | | | | after download.
+ | | | | |  Then you can even have an inter-connected integrated
+ | | | | | view of aggregated metadata extracted from a domain.
+ | | | | |_ 
+ | | | |_
+ | | | 
+ | | |[+] Example Usage:
+ | | | |
+ | | | |=[+] {yet to be added} read 
+ | | | |   "./HowTo/F1_Informatica64FOCA.pdf" for help
+ | | | |_
+ | | |_ 
  | | 
  | |[+] EXIFTool 
- | | 
+ | | | 
+ | | |[+] URL: http://www.sno.phy.queensu.ca/~phil/exiftool/
+ | | | 
+ | | |[+] What It Does?
+ | | | |
+ | | | |[+] It is like God for Image File information extraction.
+ | | | |
+ | | | |[+] Supports a real 'big' list of media file formats.
+ | | | |
+ | | | |[+] Is a platform independent Tool/Library to read/edit
+ | | | | | and even create metadata information.
+ | | | | |_
+ | | | |_
+ | | | 
+ | | |[+] Example Usage:
+ | | | |
+ | | | |[+] $ exiftool -t [_[IMAGE_NAME]_]
+ | | | |
+ | | | |=[+] {yet to be added} read 
+ | | | |   "./HowTo/F1_EXIFTool.pdf" for help
+ | | | |_
+ | | |_
+ | |
+ | |[+] MetaGoofil
+ | | |
+ | | |[+] URL: http://www.edge-security.com/metagoofil.php
+ | | |
+ | | |[+] What It Does?
+ | | | |
+ | | | |[+] It supports metadata extraction from public documents 
+ | | | | | formats PDF, DOC, XLS, PPT, ODP, ODS.
+ | | | | |_
+ | | | |
+ | | | |[+] It has expertise in fishing these documents for a username
+ | | | | | and/or machine name involved in editing the documents.
+ | | | | |_
+ | | | |_
+ | | | 
+ | | |[+] Example Usage:
+ | | | |
+ | | | |=[+] {yet to be added} read 
+ | | | |   "./HowTo/F1_MetaGoofil.pdf" for help
+ | | | |_
+ | | |_
  | |_
  |
  |[+] Search the Domain
  | |
- | |[+] 
+ | |[+] You get the machine names, be alerted for their presence on
+ | | | the victim's network.
+ | | |_ 
+ | |
+ | |[+] You reach log-in prompt of any machine on network ( not just
+ | | | the name extracted ); and you try log-in with the usernames
+ | | | harvested from the documents.
+ | | |_ 
  | |_
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
