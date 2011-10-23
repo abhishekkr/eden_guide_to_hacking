@@ -33,7 +33,7 @@
  | | |_
  | |
  | |[+] Domain Based
- | | | In an advanced stage, the choice of language is focussed on
+ | | | In an advanced stage, the choice of language is focused on
  | | |  target to be hacked. 
  | | | A normal network hacking tool could be written as a script
  | | |  in Perl, Python or Ruby. Where it's quick to add/update at
@@ -46,7 +46,7 @@
  |
  |[+] Protocols
  | |
- | |[+] Any service/standard goes through a series of brainstroming
+ | |[+] Any service/standard goes through a series of brainstorming
  | |  sessions and get formulated into a set of protocols.
  | |  RFC for Networks, JSR for Java, or similar other standards.
  | |  These are basis of big robust technologies built over them.

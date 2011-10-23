@@ -9,7 +9,7 @@
  | |  the technology at different levels.
  | | So, one need to have an overview of all components
  | |  to have a working knowledge of the technology to
- | |  be vicitmized and in-depth knowledge of component
+ | |  be victimized and in-depth knowledge of component
  | |  made target to break-in the system.
  | |_
  |
@@ -20,7 +20,7 @@
  | | It might be some administrator-level advanced tweaking
  | |  or blocking for manual read access.
  | | Or, it might be a new security parameter restricting
- | |  or honepot-logging your move.
+ | |  or honeypot-logging your move.
  | | Similar and more scenarios require hacker to be quick
  | |  learner and exploit the 'vulnerability with a twist'.
  | |_

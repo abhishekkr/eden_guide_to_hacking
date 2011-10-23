@@ -6,7 +6,7 @@
  |  "Ethical Hacking is like a practice match played 
  |   for finale of a Cop-Thief game... 
  |   to identify offense tactics of your opponents, 
- |   and likewise work on your defense startegies."
+ |   and likewise work on your defense strategies."
  |
  |[+] It is hacking performed by "Hired" Experts
  |  for determining flaw in a system and report it
