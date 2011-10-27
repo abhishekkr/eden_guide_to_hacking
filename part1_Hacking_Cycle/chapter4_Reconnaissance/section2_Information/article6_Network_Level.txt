@@ -3,10 +3,30 @@
 [+] Network Level Information
  |
  |[+] IP Ranges
- |
+ | |
+ | |[+] The IP Addresses extracted via Recon streamline any further
+ | | | scans to get access over network.
+ | | |_
+ | |
+ | |[+] Performing attacks over a specific set of IPs and not run the 
+ | | | tests through all expected IPs which might increase the network
+ | | | traffic of Victim to alert level for Security Systems in place.
+ | | |_
+ | |_
  |
  |[+] Naming Conventions
- |
- |
+ | |
+ | |[+] Sometimes, you get hold of naming conventions of network nodes
+ | | | more easily than IPs, mostly from Meta Information of publicly
+ | | | available documents from your Victim; blogs &/or queries posted
+ | | | about network practices &/or issues.
+ | | |_
+ | |
+ | |[+] Even any information leaked about the projects you are working
+ | | | on could give a great deal of hint on machine-names and the user
+ | | | accounts involved with it as in common practice they are derived
+ | | | from project, client, user, domain or technology stack involved.
+ | | |_
+ | |_
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
