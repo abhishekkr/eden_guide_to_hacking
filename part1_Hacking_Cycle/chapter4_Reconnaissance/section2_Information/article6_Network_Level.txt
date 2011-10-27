@@ -8,9 +8,9 @@
  | | | scans to get access over network.
  | | |_
  | |
- | |[+] Performing attacks over a specific set of IPs and not run the 
- | | | tests through all expected IPs which might increase the network
- | | | traffic of Victim to alert level for Security Systems in place.
+ | |[+] Performing detailed scans over a specific set of IPs and not 
+ | | | run the tests through all expected IPs which might increase the 
+ | | | network traffic of Victim, alerting the Security Systems in place.
  | | |_
  | |_
  |

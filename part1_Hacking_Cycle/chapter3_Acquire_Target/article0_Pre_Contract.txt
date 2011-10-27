@@ -47,7 +47,7 @@
  | |[+] Pick the technology you have most command on, and try seeing
  | |  it's industrial implementation and possible flaws in it.
  | |
- | |[+] Or be real safe... pick the protocols involved in your feild
+ | |[+] Or be real safe... pick the protocols involved in your field
  | |  of work and try ripping them apart and picking spots to create
  | |  anomaly.
  | |_

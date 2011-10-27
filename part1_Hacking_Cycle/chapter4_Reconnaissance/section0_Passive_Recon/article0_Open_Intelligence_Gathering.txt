@@ -11,7 +11,7 @@
  | |[+] It's also the cause of an intelligent & planned attack
  | |  instead of going on a blind date with the target.
  | |
- | |[+] There is an entire area of experitse in itslef around it, but
+ | |[+] There is an entire area of expertise in itself around it, but
  | |  it's finished products and prophecies are of a great utilization
  | |  in Modern Security Era.
  | |_
@@ -93,7 +93,7 @@
  | | |  and hence about your probable choice of used services &/or
  | | |  probable bucket of credentials.
  | | |
- | | |[+] The web portals (if crafted well and speicifically brought to
+ | | |[+] The web portals (if crafted well and specifically brought to
  | | |  you) could fetch a hell lot of information from your machine.
  | | |_
  | |_
