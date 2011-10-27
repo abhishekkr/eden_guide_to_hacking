@@ -84,29 +84,100 @@ o8oooo8 .oPYo. .oPYo. 8  .o  o8 odYo. .oPYo.    a Bootstrap Guide to Hacking
 | |
 | |[+] chapter.5* Scanning
 | | |
-| | |[+] article.0* ...
+| | |[+] section.0* Network Scanners
+| | | |
+| | | |[+] article.0* General
+| | | |[+] article.1* Service-Specific
+| | | |_
+| | |
+| | |[+] section.1* Application Scanners
+| | | |
+| | | |[+] article.2* Web Scanners
+| | | |[+] article.3* Database Scanners
+| | | |_
 | | |_
 | |
 | |[+] chapter.6* Vulnerabilities Profiling
 | | |
-| | |[+] article.0* ...
+| | |[+] article.0* Vulnerable Devices
+| | |[+] article.1* User References
+| | |[+] article.2* Processing Vulnerability Profile
 | | |_
 | |
 | |[+] chapter.7* Exploitation
 | | |
-| | |[+] article.0* ...
+| | |[+] article.0* Own it like a Romeo
+| | |[+] article.1* The Sherlock Holmes Way
+| | |[+] article.2* Psychiatric Analysis
+| | |[+] article.3* Trap to Trip
+| | |[+] article.4* Bot-Blood-Bath
 | | |_
 | |
-| |[+] chapter.8* System Puppetizing
+| |[+] chapter.8* System Puppet-izing
 | | |
-| | |[+] article.0* ...
+| | |[+] article.0* Tame The Rate
+| | |[+] article.1* Erase Finger-prints
+| | |[+] article.2* Suicide Bomber
+| | |[+] article.3* Moody Mobster
 | | |_
 | |
 | |[+] chapter.9* Reporting
 | | |
-| | |[+] article.0* ...
+| | |[+] article.0* WTTW ~ Whom To Tell What
+| | |[+] article.1* How To Tell
+| | |[+] article.2* Make Sure of it.
 | | |_
-| |_ 
+| |_
+|
+|[+] part.2* Hacking Toolset
+| |
+| |[+] chapter.10* Software Armour
+| | |
+| | |[+] article.0* O.S. Distros
+| | |[+] article.1* Recon-tools
+| | |[+] article.2* Scanners
+| | |[+] article.3* Attack Tools
+| | |[+] article.4* Forensic Tools
+| | |[+] article.5* More on it
+| | |_
+| |
+| |[+] chapter.11* Software Target
+| | |
+| | |[+] article.0* Network Emulations
+| | |[+] article.1* Weak Web Application
+| | |[+] article.2* Test Anything
+| | |_
+| |_
+|
+|[+] part.3* Attack Case Studies
+| |
+| |[+] chapter.12* SSL Defeating Attacks
+| | |
+| | |[+] chapter.13* WiFi Attack
+| | |[+] chapter.14* VoIP Attack
+| | |[+] chapter.15* Web Javascript-Based Attack
+| | |[+] chapter.16* Web SQL-Injection Attack
+| | |[+] chapter.17* SMB Attack
+| | |[+] chapter.18* Phishing Attack
+| | |_
+| |_
+|
+|[+] part.4* Being A Hacker
+| |
+| |[+] chapter.19* How to Remain A Hacker?
+| | |[+] article.0* Being Aware
+| | |[+] article.0* Being Curious
+| | |[+] article.0* Being Secured
+| | |[+] article.0* Being Contributor
+| | |[+] article.0* Being Human
+| | |_
+| |_
+|
+|[+] part.5* Appendix
+| |
+| |[+] chapter.20* Cyber Security Links
+| |[+] chapter.21* Terminology
+| |_
 |_
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

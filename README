@@ -25,99 +25,160 @@ o8oooo8 .oPYo. .oPYo. 8  .o  o8 odYo. .oPYo.    a Bootstrap Guide to Hacking
 
 [+] Eden Guide to Hacking
 |
-|[+] 0* Fundamentals
+|[+] part.0* Fundamentals
 | |
-| |[+] step.0 Defining
-| |[+] step.1 Skills Required
+| |[+] chapter.0* Defining
+| | |
+| | |[+] article.0* Hacking, Hacker and Security
+| | |[+] article.1* Hacking and Hacker's Class
+| | |[+] article.2* Hacking and Ethical Hacking
+| | |[+] article.3* Hacking, Crime and Law
+| | |[+] article.4* Hacking and Hacker's Aim
+| | |_
+| |
+| |[+] chapter.1* Skills Required
+| | |
+| | |[+] article.0* Computer Skills
+| | |[+] article.1* Social Skill
+| | |[+] article.2* Mental Skills
+| | |_
+| |
+| |[+] chapter.2* Hacking Philosophy
+| | |
+| | |[+] article.0* Circle of Hacking
+| | |[+] article.1* Art of Hacking
+| | |_
+| |_
 |
-|[+] 1* Hacking Cycle
+|[+] part.1* Hacking Cycle
 | |
-| |[+] step.0 Acquire Target
-| | |[+] 0.1 Pre-Contract
-| | |[+] 0.2 Post-Contract
+| |[+] chapter.3* Acquire Target
+| | |
+| | |[+] article.0* Pre-Contract
+| | |[+] article.1* Post-Contract
+| | |_
 | |
-| |[+] step.1 Reconnaissance
-| | |[+] 1.1 Passive-Recon
-| | | |[+] 1.1.1 Open Intelligence Gathering
-| | | |[+] 1.1.2 Meta Information Filtering
-| | |[+] 1.2 Active-Recon
-| | | |[+] 1.2.1 Social Engineering
-| | | |[+] 1.2.2 Eavesdropping 
-| | | |[+] 1.2.3 Shoulder Surfing
-| | | |[+] 1.2.4 Dumpster Diving
-| | |[+] 1.3 Information
-| | | |[+] 1.3.1 Network-Level
-| | | | |[+] .1 IP Ranges
-| | | | |[+] .2 Naming Conventions
-| | | |[+] 1.3.2 Application-Level
-| | | |[+] 1.3.3 User-Level
-| | | |[+] 1.3.4 Required To Be Social
+| |[+] chapter.4* Reconnaissance
+| | |
+| | |[+] section.0* Passive-Recon
+| | | |
+| | | |[+] article.0* Open Intelligence Gathering
+| | | |[+] article.1* Meta Information Filtering
+| | | |_
+| | | 
+| | |[+] section.1* Active-Recon
+| | | |
+| | | |[+] article.2* Social Engineering
+| | | |[+] article.3* Eavesdropping 
+| | | |[+] article.4* Shoulder Surfing
+| | | |[+] article.5* Dumpster Diving
+| | | |_
+| | | 
+| | |[+] section.2* Information
+| | | |
+| | | |[+] article.6* Network-Level
+| | | |[+] article.7* Application-Level
+| | | |[+] article.8* User-Level
+| | | |[+] article.9* Required To Be Social
+| | | |_
+| | |_
 | |
-| |[+] step.2 Scanning
-| | |[+] 2.1 Network Scanners
-| | | |[+] 2.1.1 General Scanners
-| | | | |[+] .1 Hardcore Scanners
-| | | | |[+] .2 Smart Scanners
-| | | |[+] 2.1.2 Service Scanners
-| | | | |[+] .1 Protocol Based
-| | | | |[+] .2 Device Based
-| | | | |[+] .3 OS Scanners
-| | | | |[+] .4 Microsoft-Specific
-| | | | |[+] .5 Wireless-Specific
-| | |[+] 2.2 Application Scanners
-| | | |[+] 2.2.1 Web-Application Scanners
-| | | | |[+] .1 Multiple Vulnerability Scanner
-| | | | |[+] .2 Specific Vulnerability Scanner
-| | | |[+] 2.2.2 Database Scanners
-| | | |[+] 2.2.3 <.../>
+| |[+] chapter.5* Scanning
+| | |
+| | |[+] section.0* Network Scanners
+| | | |
+| | | |[+] article.0* General
+| | | |[+] article.1* Service-Specific
+| | | |_
+| | |
+| | |[+] section.1* Application Scanners
+| | | |
+| | | |[+] article.2* Web Scanners
+| | | |[+] article.3* Database Scanners
+| | | |_
+| | |_
 | |
-| |[+] step.3 Vulnerabilities Profiling
-| | |[+] 3.1 Vulnerable Machines
-| | | |[+] 3.1.1 IP Addresses, Machine Names
-| | | |[+] 3.1.2 Vulnerable Services
-| | | |[+] 3.1.3 Possible Attack Vectors 
-| | |[+] 3.2 User References
+| |[+] chapter.6* Vulnerabilities Profiling
+| | |
+| | |[+] article.0* Vulnerable Devices
+| | |[+] article.1* User References
+| | |[+] article.2* Processing Vulnerability Profile
+| | |_
 | |
-| |[+] step.4 Exploitation
-| | |[+] 4.1 <.../>
+| |[+] chapter.7* Exploitation
+| | |
+| | |[+] article.0* Own it like a Romeo
+| | |[+] article.1* The Sherlock Holmes Way
+| | |[+] article.2* Psychiatric Analysis
+| | |[+] article.3* Trap to Trip
+| | |[+] article.4* Bot-Blood-Bath
+| | |_
 | |
-| |[+] step.5 System Puppetizing
-| | |[+] 5.1 Tame The RAT
-| | |[+] 5.2 Erase Fingerprints
-| | |[+] 5.3 <.../>
+| |[+] chapter.8* System Puppet-izing
+| | |
+| | |[+] article.0* Tame The Rate
+| | |[+] article.1* Erase Finger-prints
+| | |[+] article.2* Suicide Bomber
+| | |[+] article.3* Moody Mobster
+| | |_
 | |
-| |[+] step.6 Reporting
-| | |[+] 6.1 WTTW ~ Whom To Tell What
+| |[+] chapter.9* Reporting
+| | |
+| | |[+] article.0* WTTW ~ Whom To Tell What
+| | |[+] article.1* How To Tell
+| | |[+] article.2* Make Sure of it.
+| | |_
+| |_
 |
-|[+] 2* Remain A Hacker
-| |[+] step.1 Being Aware
-| |[+] step.2 Being Curious
-| |[+] step.3 Being Secured
-| |[+] step.4 Being Contributor
-| |[+] step.5 Being Human
+|[+] part.2* Hacking Toolset
+| |
+| |[+] chapter.10* Software Armour
+| | |
+| | |[+] article.0* O.S. Distros
+| | |[+] article.1* Recon-tools
+| | |[+] article.2* Scanners
+| | |[+] article.3* Attack Tools
+| | |[+] article.4* Forensic Tools
+| | |[+] article.5* More on it
+| | |_
+| |
+| |[+] chapter.11* Software Target
+| | |
+| | |[+] article.0* Network Emulations
+| | |[+] article.1* Weak Web Application
+| | |[+] article.2* Test Anything
+| | |_
+| |_
 |
-|[+] 3* Hacking Toolset
-| |[+] list.1 O.S. Distros
-| |[+] list.2 Recon-Tools
-| |[+] list.3 Scanners
-| |[+] list.4 Attack Tools
-| |[+] list.5 Forensic Tools
-| |[+] list.6 Attack-Learning Tools
-| |[+] list.7 More Tools
+|[+] part.3* Attack Case Studies
+| |
+| |[+] chapter.12* SSL Defeating Attacks
+| | |
+| | |[+] chapter.13* WiFi Attack
+| | |[+] chapter.14* VoIP Attack
+| | |[+] chapter.15* Web Javascript-Based Attack
+| | |[+] chapter.16* Web SQL-Injection Attack
+| | |[+] chapter.17* SMB Attack
+| | |[+] chapter.18* Phishing Attack
+| | |_
+| |_
 |
-|[+] 4* Attack Scenarios
-| |[+] tut.0 SSL Defeating Attacks
-| |[+] tut.1 WiFi Attack
-| |[+] tut.2 VoIP Attack
-| |[+] tut.3 Web Javascript-Based Attack
-| |[+] tut.4 Web SQL-Injection Attack
-| |[+] tut.5 SMB Attack
-| |[+] tut.6 Phishing Attack
-| |[+] tut.X <.../>
+|[+] part.4* Being A Hacker
+| |
+| |[+] chapter.19* How to Remain A Hacker?
+| | |[+] article.0* Being Aware
+| | |[+] article.0* Being Curious
+| | |[+] article.0* Being Secured
+| | |[+] article.0* Being Contributor
+| | |[+] article.0* Being Human
+| | |_
+| |_
 |
-|[+] 5* Appendix
-| |[+] list.1 Cyber Security Links
-| |[+] list.2 Terminology
+|[+] part.5* Appendix
+| |
+| |[+] chapter.20* Cyber Security Links
+| |[+] chapter.21* Terminology
+| |_
 |_
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
