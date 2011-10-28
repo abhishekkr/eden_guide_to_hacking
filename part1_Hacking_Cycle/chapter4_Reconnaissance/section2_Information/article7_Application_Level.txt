@@ -2,10 +2,59 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [+] Application Level Information
  |
- |[+] Softwares
+ |[+] Softwares,
+ | |
+ | |[+] It's the end of launching vulnerability scans in the wild.
+ | |
+ | |[+] You have a target now, knowledge about applications running on
+ | | | a machine leads into major reduction on probable attacks to be
+ | | | launched by filtering them with vulnerabilities of application.
+ | | |_
+ | |
+ | |[+] Resolving the particular version of application found would
+ | | | further stream-line you with a very specific and and direct
+ | | | attack channel which will surely compromise the Target unless
+ | | | your Scanner made a mistake or your Target was smart enough to
+ | | | fake it or patch it.
+ | | |_
+ | |_
+ | 
+ |[+] their Libraries
+ | |
+ | |[+] You get know the applications (even their versions), but what if
+ | | | if they are stable pacthed editions with no known vulnerabilities.
+ | | | No worries, all these services are dependent on system & 3rd party
+ | | | development libraries for features.
+ | | |_
+ | |
+ | |[+] Investigate about all the libraries involved and then treat them
+ | | | as individual applications and iterate them through same procedure.
+ | | |_
+ | |_ 
  |
+ |[+] and Platforms
+ | |
+ | |[+] Certain applications or at least their returned signature reveals
+ | | | the type or sometimes exact O.S. in use, then attacker could try to
+ | | | compromise O.S. by bringing it in same software-based recon loop.
+ | | |_
+ | |_
  |
- |[+] Software's Version
+ |[+] Designed using Protocols
+ | |
+ | |[+] Different protocols gets into use while designing an application
+ | | | and they have flaws of their own which help you to enhance the
+ | | | domain to look for specific flaws.
+ | | |_
+ | |_
  |
+ |[+] Implemented using Practices
+ | |
+ | |[+] An in-correct implementation of a robust security mechanism could
+ | | | easily lets attackers in and thus considering all default & possible
+ | | | weak configuration scenarios fills in your vulnerability assessment
+ | | | to-do list with more flaws.
+ | | |_
+ | |_ 
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
