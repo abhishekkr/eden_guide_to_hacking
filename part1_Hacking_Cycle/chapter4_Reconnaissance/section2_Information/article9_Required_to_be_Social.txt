@@ -3,9 +3,33 @@
 [+] Required to be Social
  |
  |[+] Goto Events Organized
- |
+ | |
+ | |[+] If your Target organizes any event with an open invitation to
+ | | | all, make sure you attend it & notice everything they own like
+ | | | laptops (and O.S. used), networking devices (even their model
+ | | | numbers are important), and more.
+ | | |_
+ | |
+ | |[+] If the event has been organized in their own office, or anyway
+ | | | if you get access to their network, whoa!!! just the perfect
+ | | | opportunity to analyze enemies territory from inside and place
+ | | | helpers if available.
+ | | |_
+ | |_
  |
  |[+] Entry trying sell/showcase/interview
- |
+ | |
+ | |[+] Target also reveals the kind of technology it uses on their 
+ | | | computing devices by:
+ | | |
+ | | |[+] technology stack required to build the Products build/sold
+ | | | | by them, and in the services offered
+ | | | |_
+ | | |
+ | | |[+] the requirement hinted in the required job positions
+ | | |
+ | | |[+] technology partners of Target too
+ | | |_
+ | |_
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
