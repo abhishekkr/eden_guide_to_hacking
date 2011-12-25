@@ -3,9 +3,23 @@
 [+] User Level Information
  |
  |[+] User Names, Email Ids
- |
+ | |
+ | |[+] Target's name, email ids or any other of online handle has a
+ | | | great probability of being your personal machine's username too.
+ | | | Mostly found common at online finance related web applications.
+ | | |_
+ | |_
  |
  |[+] Web Presence of Users
- |
+ | |
+ | |[+] The type of websites joined by Target specifies their domain
+ | | | of interest affecting the choice of secret passwords by them.
+ | | |_ 
+ | | 
+ | |[+] Posts made by them on those domains may even narrow down your
+ | | | hunt for preferred credentials (for dictionary-based attacks)
+ | | | to a more thin set of passwords to be tried.
+ | | |_
+ | |_
  |_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
