@@ -49,3 +49,5 @@ compromising it's security parameters.
 > A Proof-of-Concept exploiting Threat Model
 
 ***
+
+other important terms used in this tutorial can be referenced from the "Appendix", "Terminology"
