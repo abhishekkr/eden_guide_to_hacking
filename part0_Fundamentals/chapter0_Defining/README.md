@@ -1,5 +1,5 @@
+***
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Defining
 
 ## article.0* Hacking, Hacker & Security
@@ -11,5 +11,5 @@
 ## article.3* Hacking, Crime & Law
 
 ## article.4* Hacking & Hacker's Aim
-_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+***
