@@ -21,7 +21,6 @@ o8oooo8 .oPYo. .oPYo. 8  .o  o8 odYo. .oPYo.   a Bootstrap Guide to Hacking
 ::::::::::::::::::::::::::::::::::::::::...::
                                                ~=ABK=~ (AbhishekKr) aBionic
                                              http://www.twitter.com/aBionic
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
 # Eden Guide to Hacking
