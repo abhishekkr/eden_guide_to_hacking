@@ -101,7 +101,7 @@
 
 * On first run, it brings up a startup-wizard which will itself ask you to log-in/register. You need an account for Free usage.
 
-* Once you are past the 'Login Result', it asks you to select 'Transform Seeds' which decides
+* Once you are past the 'Login Result', it asks you to select 'Transform Seeds' which decides the minions to be used for performing all the extensive mining. Users can even [host local Transform Application Server](http://ctas.paterva.com/view/Server_Requirements) and use it.
 
 * Transforms are like taking a 'hint' from user and map it to asked query type and show the linked information. For instance give hint of the 'dns name' of any target, ask for all the sub-doamins, ip addresses serving them, and more.
 
@@ -109,8 +109,15 @@
 
 * The main power of this utility is the wide range of Transforms provided. So to get expertise over what all information you can gather using Maltego, take quick look at all the Transforms it provides. Details can be seen on need.
 
-* Then there are 3rd Party Transforms available to enhance the information gathering task even more easier and specialized.  Like [PacketNinjas](http://packetninjas.net/) provide extension called [SocialNet](http://packetninjas.net/tools/socialnet.html) which lets you link the data on graph with data from varied Social Network portals like Facebook. Then say using the link analysis power of Maltego you can mine data like common friends, groups, and respective data to Social Network they are part of.
-  There is a short [video on how one can create custom transforms](http://www.youtube.com/watch?v=42KhnNQS8AU).
+* Then there are 3rd Party Transforms available to enhance the information gathering task even more easier and specialized.
+
+* Like [PacketNinjas](http://packetninjas.net/) provide extension called [SocialNet](http://packetninjas.net/tools/socialnet.html) which lets you link the data on graph with data from varied Social Network portals like Facebook. Then say using the link analysis power of Maltego you can mine data like common friends, groups, and respective data to Social Network they are part of.
+
+* [Sploitego](https://github.com/allfro/sploitego) provides Penetration Testing transforms for Maltego. It uses utils like Scapy, NMap, Metasploit, Nessus, and more.
+
+* There is a short [video on how one can create custom transforms](http://www.youtube.com/watch?v=42KhnNQS8AU).
+
+* [Canary Framework](http://www.canariproject.com/) has been specially developed for particular task of Transform development.
 
 
 ##### Quick Tips
