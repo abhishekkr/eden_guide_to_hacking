@@ -16,7 +16,7 @@
 
 > A curious, innovative person trying to solve a problem or use a service in desired way, with no ill-intention but lawfully utilizing any technology in a tweaked stage not harming others.
 
-> NOT Script Kiddies 'Script Kiddies' are newbie learners, who tend to find shared 'Hacking' material by 'Hackers' and use it to perform the same hacks.
+> NOT Script Kiddies. 'Script Kiddies' are newbie learners, who tend to find shared 'Hacking' material by 'Hackers' and use it to perform the same hacks.
 > Being 'Script Kiddie' is not bad. But sticking to this status is.
 
 > To Hack a Technology, learn it as much you can...
