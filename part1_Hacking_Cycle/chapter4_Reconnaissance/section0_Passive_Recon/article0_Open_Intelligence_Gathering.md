@@ -135,7 +135,7 @@
 
 * You can set the type of information to be churned out of entire data stack.
 
-* read "./HowTo/F1_Maltego.md" for help
+* refer ["./HowTo/F1_Maltego.md" for quick view](https://github.com/abhishekkr/eden_guide_to_hacking/blob/master/part1_Hacking_Cycle/chapter4_Reconnaissance/section0_Passive_Recon/HowTo/F1_Maltego.md)
 
 ***
 
