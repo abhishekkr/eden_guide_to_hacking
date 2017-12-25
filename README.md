@@ -1,6 +1,6 @@
-```Shell
+read as eBook @ [abhishekkr.github.io/eden_guide_to_hacking](https://abhishekkr.github.io/eden_guide_to_hacking)
 
-Read it as eBook @ URL: <<SOON TO BE ADDED>>
+```Shell
 
 .oPYo.      8                .oPYo.         o      8          ooooo        
 8.          8                8    8                8            8          
