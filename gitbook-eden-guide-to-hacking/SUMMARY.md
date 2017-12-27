@@ -3,7 +3,7 @@
 
 * [Introduction](README.md)
 
-## [Part.0 Fundamentals](part0/README.md)
+## Part.0 Fundamentals
 
 * [Chapter.0 Init](part0/chapter0.md)
 
@@ -28,9 +28,9 @@
 
 ---
 
-## [Part.1 Hacking Cycle]()
+## Part.1 Hacking Cycle
 
-* Chapter.3 Acquire Target
+* [Chapter.3 Acquire Target](part1/chapter3.md)
 
 > * Pre-Contract
 > * Post-Contract
@@ -120,19 +120,7 @@
 
 ## [Part.3 Attack Case Studies]()
 
-* Chapter.12 SSL Defeating Attacks
-
-* Chapter.13 WiFi Attack
-
-* Chapter.14 VoIP Attack
-
-* Chapter.15 Web Javascript-Based Attack
-
-* Chapter.16 Web SQL-Injection Attack
-
-* Chapter.17 SMB Attack
-
-* Chapter.18 Phishing Attack
+[WIP]
 
 ---
 

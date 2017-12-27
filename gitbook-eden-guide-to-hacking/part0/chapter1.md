@@ -147,4 +147,3 @@ _Blend-in with others._
 > (in Software Engineering) you need to devise mocking technology components which are fake and un-verified like forged & expired digital certificates hoping to be accepted. Such scenarios are similar to real life lying and need a brain with good lying techniques to think of these.
 
 ---
----
